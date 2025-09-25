@@ -1,8 +1,3 @@
-Got it 👍 — we’ll keep the README professional, **no emojis**, but still add subtle easter eggs like *BM² is cool* without breaking tone.
-Here’s a cleaned-up, professional version of your README with Maven instructions + hidden fun bits:
-
----
-
 ```markdown
 # Smart Text Summarizer (Java)
 

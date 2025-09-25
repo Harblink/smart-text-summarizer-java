@@ -1,0 +1,5 @@
+Artificial Intelligence is a branch of computer science that aims to create intelligent machines. 
+It has become an essential part of the technology industry. 
+Research associated with artificial intelligence is highly technical and specialized. 
+The core problems of AI include programming computers for certain traits such as knowledge, reasoning, problem solving, perception, learning, planning, and ability to manipulate and move objects. 
+AI is now used in various applications such as self-driving cars, virtual assistants, and robotics.
